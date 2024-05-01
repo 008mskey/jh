@@ -1,2 +1,7 @@
-## 经验值激活码
-![图像文本](https://github.com/laobiao168/49tuku-uniapp/raw/main/image/app1.png)
+## 解决以下问题XP安装密钥以及XP激活界面
+#### 技术客服联系邮箱1563161179@qq.com
+![图像文本](./image/0捕获.PNG)
+![图像文本](./image/1捕获.PNG)
+![图像文本](./image/2捕获.PNG)
+![图像文本](./image/3捕获.PNG)
+![图像文本](./image/4捕获.PNG)
